@@ -52,6 +52,14 @@ Informe 2 "Análisis de Mallas"
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/T2.png)
 
 
+●	Imágenes representativas de análisis de mallas en un circuito.
+
+                    
+   https://hetpro-store.com/TUTORIALES/wp-content/uploads/2020/04/Circuito-cerrado.png
+		    
+   https://hetpro-store.com/TUTORIALES/wp-content/uploads/2020/04/Mallas_0.png
+
+
 4.	Diagramas 
  
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Circuito.png)
@@ -78,12 +86,6 @@ Cabe mencionar que para el análisis es importante identificar que elemento en e
 
 Ya identificado los resistores R4 y R5 que son los que comparten corrientes tanto de I2 e I1 para el resistor R4 y I2 e I3 para R5, procedemos a armar las ecuaciones. Si se tiene una fuente de voltaje solo se copia el valor que se encuentre, siempre respetando el orden de los signos ya que si no lo hacemos nos dará un valor erróneo y a su vez inservible para el análisis futuro que se realizara con la simulación del Simulador a implementar “MULTISIM”.
 
-●	Imágenes representativas de análisis de mallas en un circuito.
-
-                    
-   https://hetpro-store.com/TUTORIALES/wp-content/uploads/2020/04/Circuito-cerrado.png
-		    
-   https://hetpro-store.com/TUTORIALES/wp-content/uploads/2020/04/Mallas_0.png
 
 
 6.	Procedimiento 
