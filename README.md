@@ -43,7 +43,7 @@ Informe 2 "Análisis de Mallas"
 
 	●	Demostrar que los instrumentos de medición básicos para el análisis de 	circuitos, algunos métodos de solución para hallar valores teóricos de tensión y 	corriente.
 
-●		Identificar la forma correcta de medición de corriente y voltaje con el multímetro   para circuitos resistivos, y más específicamente de los circuitos analizaos por mallas.
+●		Identificar la forma correcta de medición de corriente y voltaje con el multímetro   para circuitos resistivos, y más específicamente de los circuitos analizaos por mallas. 	
 
 3.	Marco Teórico 
 
@@ -54,7 +54,7 @@ Informe 2 "Análisis de Mallas"
 
 4.	Diagramas 
  
-![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Circuito.png)
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Circuito.jpeg)
  
 Figura 2.1 Circuito para el análisis de mallas. 
 
@@ -62,7 +62,7 @@ Figura 2.1 Circuito para el análisis de mallas.
 
 5.	Lista De Componentes 
 
-![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Material.png)
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Material.jpeg)
 
   5.1 	Explicación
   
