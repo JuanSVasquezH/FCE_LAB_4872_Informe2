@@ -49,18 +49,20 @@ Informe 2 "Análisis de Mallas"
 
 4.	Diagramas 
  
-![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/11.png)
- 
-Figura N.ª 1: Diagrama de implementación del circuito eléctrico 
 
-	El presente diagrama se lo realizó en las prácticas a partir de previos conocimientos sobre las leyes de Kirchhoff en cuanto a voltajes y corrientes, el diagrama está compuesto de varios componentes circuitillos de los cuales tenemos un circuito con positivo y negativo la cual representa una fuente de corriente en D.C, la cual suministra la energía al circuito, también existen líneas en forma de sic sac que se le conoce como resistencias la cual impiden el paso de la corriente. 
+ 
+Figura 2.1 Circuito para el análisis de mallas. 
+
+El presente diagrama se lo realizó en las prácticas a partir de previos conocimientos sobre las leyes de Kirchhoff en cuanto a voltajes y corrientes, el diagrama está compuesto de varios componentes circuitillos de los cuales tenemos un circuito con positivo y negativo la cual representa una fuente de corriente en D.C, la cual suministra la energía al circuito, también existen líneas en forma de sic sac que se le conoce como resistencias la cual impiden el paso de la corriente. 
 
 5.	Lista De Componentes 
 
-![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/descripcion.png)
 
-	
+
+
   5.1 	Explicación
+  
+  
 Para le elaboración del análisis de mallas debemos tomar en cuenta el número de mallas presentes en el circuito, luego veremos el sentido de las corrientes el cual se va a tomar, esto es importante ya que este nos dará el signo en el valor final de cada corriente en las diferentes mallas que analizamos.
 EL número de corrientes que se hallara es igual al número de mallas que se tenga en el circuito, en este caso analizamos 3 mallas por ende existe 3 corrientes una circulando en cada malla.
 Cabe mencionar que para el análisis es importante identificar que elemento en el circuito está compartiendo dos o más corrientes, ya que estas se restaran para poder realizar una correcta formulación de las ecuaciones. 
@@ -108,6 +110,7 @@ Ya identificado los resistores R4 y R5 que son los que comparten corrientes tant
 
 
 12.	Bibliografía 
+
 
 	●	https://dademuch.com/ (2019), Método de Mallas – Análisis de Circuitos, recuperado de : 	https://dademuch.com/2019/11/05/metodo-de-mallas-analisis-de-circuitos/ 
 
