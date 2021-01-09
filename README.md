@@ -145,6 +145,8 @@ Ya identificado los resistores R4 y R5 que son los que comparten corrientes tant
 
 ●	Los Calculos se encuentran en carpeta Anexos.
 
+https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/Anexos/Desarrollo_Circuito_Analisis_Mallas.pdf
+
 10.	Aportaciones 
 
 	●	En esta práctica se hicieron medidas de tensionen los componentes de un 	circuito para determinar su desfase relativo y comprobar la aplicabilidad e las 	herramientas teóricas brindadas en el curso. Adicionalmente se comprobó el teorema 	de superposición de forma experimental
