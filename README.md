@@ -46,6 +46,10 @@ Informe 2 "Análisis de Mallas"
 
 3.	Marco Teórico 
 
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/ImagenesInforme/T2.png)
+
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/ImagenesInforme/T2.png)
+
 
 4.	Diagramas 
  
