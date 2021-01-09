@@ -46,4 +46,78 @@ Informe 2 "Análisis de Mallas"
 
 3.	Marco Teórico 
 
-https://hetpro-store.com/TUTORIALES/wp-content/uploads/2020/04/Circuito-cerrado.png
+
+4.	Diagramas 
+ 
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/11.png)
+ 
+Figura N.ª 1: Diagrama de implementación del circuito eléctrico 
+
+	El presente diagrama se lo realizó en las prácticas a partir de previos conocimientos sobre las leyes de Kirchhoff en cuanto a voltajes y corrientes, el diagrama está compuesto de varios componentes circuitillos de los cuales tenemos un circuito con positivo y negativo la cual representa una fuente de corriente en D.C, la cual suministra la energía al circuito, también existen líneas en forma de sic sac que se le conoce como resistencias la cual impiden el paso de la corriente. 
+
+5.	Lista De Componentes 
+
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/descripcion.png)
+
+	
+  5.1 	Explicación
+Para le elaboración del análisis de mallas debemos tomar en cuenta el número de mallas presentes en el circuito, luego veremos el sentido de las corrientes el cual se va a tomar, esto es importante ya que este nos dará el signo en el valor final de cada corriente en las diferentes mallas que analizamos.
+EL número de corrientes que se hallara es igual al número de mallas que se tenga en el circuito, en este caso analizamos 3 mallas por ende existe 3 corrientes una circulando en cada malla.
+Cabe mencionar que para el análisis es importante identificar que elemento en el circuito está compartiendo dos o más corrientes, ya que estas se restaran para poder realizar una correcta formulación de las ecuaciones. 
+Ya identificado los resistores R4 y R5 que son los que comparten corrientes tanto de I2 e I1 para el resistor R4 y I2 e I3 para R5, procedemos a armar las ecuaciones. Si se tiene una fuente de voltaje solo se copia el valor que se encuentre, siempre respetando el orden de los signos ya que si no lo hacemos nos dará un valor erróneo y a su vez inservible para el análisis futuro que se realizara con la simulación del Simulador a implementar “MULTISIM”.
+
+6.	Procedimiento 
+             
+	     1. Abrir el simulador “Multisim”, Para la implementación del Circuito.
+	     
+	     
+ 
+             2. Crear un nuevo proyecto, en la barra de herramientas seleccionar los elementos para armar el circuito.
+
+
+
+             3. Procedemos a hallar el valor de la corriente que pasa en cada malla, para ello procedemos a conectar las puntas al inicio del resistor R1(Malla1), R2 (Malla 2), R3 (Malla 3).
+	     
+	     
+
+             4.  Una vez conectados las puntas en cada malla, presionamos el botón verde (RUN)
+
+
+
+             5. Recolectamos los datos en una tabla donde nos ayudara a comparar con el análisis tanto de los valores medidos (Simulados), como los valores calculados (Teóricos).
+	     
+	     
+
+             6. Una vez analizados los datos obtenidos, calculamos el margen de erros que existe en la presente practica.
+	     
+	     
+7.	Descripción De Prerrequisitos Y Configuración 
+
+
+8.	Tabulación de Datos
+
+
+9.	Cálculos 
+
+●	Los Calculos se encuentran en carpeta Anexos.
+
+10.	Aportaciones 
+
+
+11.	Conclusiones 
+
+
+12.	Bibliografía 
+
+	●	https://dademuch.com/ (2019), Método de Mallas – Análisis de Circuitos, recuperado de : 	https://dademuch.com/2019/11/05/metodo-de-mallas-analisis-de-circuitos/ 
+
+	●	 Nilsson, James W., & Riedel, Susan A. (2002). Introductory Circuits for Electrical           and Computer Engineering. New Jersey: Prentice Hall.  https://es.wikipedia.org/wiki/An%C3%A1lisis_de_mallas 
+
+	●	SN (2018). Ley de Kirchhoff: Análisis de mallas, recuperado de: 	https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/ 
+
+	●	Wikipedia.com (2020), Análisis de Mallas, recuperado de: 	https://analisisdecircuitos1.wordpress.com/parte-1-circuitos-resistivos-cap-21-a-30-en-construccion/capitulo-21-analisis-de-mallas/.
+
+
+13.	Anexo
+        
+
