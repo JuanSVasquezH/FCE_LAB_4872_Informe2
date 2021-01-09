@@ -176,4 +176,8 @@ Ya identificado los resistores R4 y R5 que son los que comparten corrientes tant
 
 13.	Anexo
         
+	
+	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/NodosVSMallas.jpg)
+	
+	Diferencias Entre Analisis de Mallas y Nodos
 
