@@ -144,7 +144,7 @@ Ya identificado los resistores R4 y R5 que son los que comparten corrientes tant
 
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Datos.png)
       
-              1. Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.       
+                         1. Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.       
 
 9.	Cálculos 
 
