@@ -1,6 +1,5 @@
 # FCE_LAB_4872_Informe2
 Informe 2 "Análisis de Mallas"
-
                                                       UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
 
                                                    DEPARTAMENTO DE ELÉCTRICA Y ELECTRÓNICA
@@ -52,14 +51,6 @@ Informe 2 "Análisis de Mallas"
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/T2.png)
 
 
-●	Imágenes representativas de análisis de mallas en un circuito.
-
-                    
-   https://hetpro-store.com/TUTORIALES/wp-content/uploads/2020/04/Circuito-cerrado.png
-		    
-   https://hetpro-store.com/TUTORIALES/wp-content/uploads/2020/04/Mallas_0.png
-
-
 4.	Diagramas 
  
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Circuito.png)
@@ -86,6 +77,12 @@ Cabe mencionar que para el análisis es importante identificar que elemento en e
 
 Ya identificado los resistores R4 y R5 que son los que comparten corrientes tanto de I2 e I1 para el resistor R4 y I2 e I3 para R5, procedemos a armar las ecuaciones. Si se tiene una fuente de voltaje solo se copia el valor que se encuentre, siempre respetando el orden de los signos ya que si no lo hacemos nos dará un valor erróneo y a su vez inservible para el análisis futuro que se realizara con la simulación del Simulador a implementar “MULTISIM”.
 
+●	Imágenes representativas de análisis de mallas en un circuito.
+
+                    
+   https://hetpro-store.com/TUTORIALES/wp-content/uploads/2020/04/Circuito-cerrado.png
+		    
+   https://hetpro-store.com/TUTORIALES/wp-content/uploads/2020/04/Mallas_0.png
 
 
 6.	Procedimiento 
@@ -142,17 +139,25 @@ Ya identificado los resistores R4 y R5 que son los que comparten corrientes tant
 
 8.	Tabulación de Datos
 
-      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Datos.png)
-      
 
 9.	Cálculos 
 
 ●	Los Calculos se encuentran en carpeta Anexos.
 
 10.	Aportaciones 
+	●	En esta práctica se hicieron medidas de tensionen los componentes de un 	circuito para determinar su desfase relativo y comprobar la aplicabilidad e las 	herramientas teóricas brindadas en el curso. Adicionalmente se comprobó el teorema 	de superposición de forma experimental
 
+	●	Se comprueba mediante las fórmulas ya conocidas V=IR (Ley de Ohm), 	que 	ambas leyes tanto de corriente y voltajes en un circuito cerrado son cero. Es decir 	que el uso adecuado de las fórmulas y el planteamiento adecuado de las corrientes al 	usar el método de mallas nos facilita mejor la comprensión del circuito y las leyes en sí. 	Esto ocurre igual en la sumatoria de los voltajes del circuito.  
+
+	●	Aplicando la teoría de análisis de mallas, damos cuenta de que está bien   	fundamentada y puede ser aplicable demo do general a cada circuito plano que se 	pueda presentar. 
 
 11.	Conclusiones 
+
+	●	Al haber armado los circuitos tanto físicamente como en el simulador donde se 	obtienen las corrientes con valores teóricos, los prácticos y los simulados, dando a 	conocer el funcionamiento del método de análisis de malla que sólo es aplicable a 	circuitos planos, es decir, donde no exista cruce de ramas.
+
+	●	Observamos que no hay un porcentaje de error significativo entre un   	fundamento simulado y teórico, respecto a uno experimental,   puesto que los   	elementos usados durante la práctica no interfieren bastante en la toma de valores.
+
+	●	Debemos tomar en cuenta el sentido ya sea de corriente o voltaje, en 	el cual 	vamos a calcular los distintos datos ya que estos no servirán para comprobar el 	método de análisis de malla que se están estudiando en esta presente 	práctica.  
 
 
 12.	Bibliografía 
