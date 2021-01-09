@@ -78,34 +78,50 @@ Cabe mencionar que para el análisis es importante identificar que elemento en e
 Ya identificado los resistores R4 y R5 que son los que comparten corrientes tanto de I2 e I1 para el resistor R4 y I2 e I3 para R5, procedemos a armar las ecuaciones. Si se tiene una fuente de voltaje solo se copia el valor que se encuentre, siempre respetando el orden de los signos ya que si no lo hacemos nos dará un valor erróneo y a su vez inservible para el análisis futuro que se realizara con la simulación del Simulador a implementar “MULTISIM”.
 
 6.	Procedimiento 
+
              
       1. Abrir el simulador “Multisim”, Para la implementación del Circuito.
-	     
+	
+	
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/P1.png)
+      
       
  
       2. Crear un nuevo proyecto, en la barra de herramientas seleccionar los elementos para armar el circuito.
 
+
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Circuito1.png)
 
 
+
       3. Procedemos a hallar el valor de la corriente que pasa en cada malla, para ello procedemos a conectar las puntas al inicio del resistor R1(Malla1), R2 (Malla 2), R3 (Malla 3).
-      
+
+
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Corrientes.png)
+
 
 
       4.  Una vez conectados las puntas en cada malla, presionamos el botón verde (RUN)
 
-      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/123i.png)
+
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/123i.jpg)
+
+
 
       5. Recolectamos los datos en una tabla donde nos ayudara a comparar con el análisis tanto de los valores medidos (Simulados), como los valores calculados (Teóricos).
+      
            
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/VoltajeCorriente.png)	     
+
+
 
       6. Una vez analizados los datos obtenidos, calculamos el margen de erros que existe en la presente practica.
 	     
 
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Datos.png)	     
+      
+      
+      
 	     
 7.	Descripción De Prerrequisitos Y Configuración 
 
