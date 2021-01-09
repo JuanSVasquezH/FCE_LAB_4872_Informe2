@@ -30,6 +30,7 @@ Informe 2 "Análisis de Mallas"
 
 
 1.	Tema: Análisis de mallas
+
 2.	Objetivos
 
 	1.1 Objetivo General
