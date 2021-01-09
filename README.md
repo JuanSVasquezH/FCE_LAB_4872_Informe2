@@ -98,6 +98,9 @@ Ya identificado los resistores R4 y R5 que son los que comparten corrientes tant
 
 
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Corrientes.png)
+      
+      
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/VoltajeCorriente.png)
 
 
 
@@ -110,8 +113,8 @@ Ya identificado los resistores R4 y R5 que son los que comparten corrientes tant
 
       5. Recolectamos los datos en una tabla donde nos ayudara a comparar con el análisis tanto de los valores medidos (Simulados), como los valores calculados (Teóricos).
       
-           
-      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/VoltajeCorriente.png)	     
+                
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Simulador.jpg)
 
 
 
