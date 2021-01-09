@@ -145,6 +145,7 @@ Ya identificado los resistores R4 y R5 que son los que comparten corrientes tant
 ●	Los Calculos se encuentran en carpeta Anexos.
 
 10.	Aportaciones 
+
 	●	En esta práctica se hicieron medidas de tensionen los componentes de un 	circuito para determinar su desfase relativo y comprobar la aplicabilidad e las 	herramientas teóricas brindadas en el curso. Adicionalmente se comprobó el teorema 	de superposición de forma experimental
 
 	●	Se comprueba mediante las fórmulas ya conocidas V=IR (Ley de Ohm), 	que 	ambas leyes tanto de corriente y voltajes en un circuito cerrado son cero. Es decir 	que el uso adecuado de las fórmulas y el planteamiento adecuado de las corrientes al 	usar el método de mallas nos facilita mejor la comprensión del circuito y las leyes en sí. 	Esto ocurre igual en la sumatoria de los voltajes del circuito.  
