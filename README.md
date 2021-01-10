@@ -138,7 +138,9 @@ Figura 2.1 Circuito para el análisis de mallas.
 7.	Descripción De Prerrequisitos Y Configuración 
 
 
+	Se debe obtener un conocimiento básico de las leyes y aplicaciones de Kirchhoff para 	poder realizar la practica también el conocimiento previo en cuanto a el 	reconocimiento de los elementos circuitales y el manejo adecuado de software 	Multisim o Proteus para la correcta medición y obtención de cálculos.
 	En el análisis de mallas se parte de la aplicación de KVL a un conjunto mínimo de 	lazos para encontrar al final todas las corrientes de lazo. A partir de las corrientes de 	lazo es 	posible encontrar todas las corrientes de rama. El número de lazos que se 	pueden plantear en un circuito puede ser muy grande, pero lo importante es que 	el sistema de ecuaciones represente un conjunto mínimo de lazos independientes.
+	
 
 8.	Tabulación de Datos
 
@@ -149,7 +151,7 @@ Figura 2.1 Circuito para el análisis de mallas.
 9.	Cálculos 
 
       
-	●	Los Calculos se encuentran en carpeta Anexos.
+	●	Los Cálculos se encuentran en carpeta Anexos.
 	
 	https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/Anexos/Desarrollo_Circuito_Analisis_Mallas.pdf
 
@@ -184,7 +186,8 @@ Figura 2.1 Circuito para el análisis de mallas.
 
 13.	Anexo
         
-	
+	https://lucid.app/lucidchart/invitations/accept/9d245e5e-204f-407f-937a-91ebd5b11176
+
 	![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/NodosVSMallas.jpg)
 	
 	Diferencias Entre Analisis de Mallas y Nodos
