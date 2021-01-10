@@ -27,8 +27,6 @@ Informe 2 "Análisis de Mallas"
 
                                                                        2020
 
-
-
 1.	Tema: Análisis de mallas
 
 2.	Objetivos
@@ -43,9 +41,8 @@ Informe 2 "Análisis de Mallas"
 
 	●	Demostrar que los instrumentos de medición básicos para el análisis de 	circuitos, algunos métodos de solución para hallar valores teóricos de tensión y 	corriente.
 	
-	●	Identificar la forma correcta de medición de corriente y voltaje con el multímetro   para circuitos resistivos, y más específicamente de los circuitos analizaos por mallas. 
-      	
-
+	●	Identificar la forma correcta de medición de corriente y voltaje con el 	multímetro   para circuitos resistivos, y más específicamente de los circuitos analizaos 	por mallas. 
+	 
 3.	Marco Teórico 
 
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/T1.png)
@@ -59,25 +56,27 @@ Informe 2 "Análisis de Mallas"
  
 Figura 2.1 Circuito para el análisis de mallas. 
 
-●	El presente diagrama se lo realizó en las prácticas a partir de previos conocimientos sobre las leyes de Kirchhoff en cuanto a voltajes y corrientes, el diagrama está compuesto de varios componentes circuitillos de los cuales tenemos un circuito con positivo y negativo la cual representa una fuente de corriente en D.C, la cual suministra la energía al circuito, también existen líneas en forma de sic sac que se le conoce como resistencias la cual impiden el paso de la corriente. 
+
+	●	El circuito es a diseñado de tal forma que las resistencias y los voltajes se adecuen en el cálculo de las mallas este circuito está conformado de 5 resistencias y 2 fuentes de voltaje tanto en serie y en paralelo para el cálculo. Se asigna un sentido arbitrario de circulación de corriente a cada malla (las que se quieren calcular). El sentido no tiene porqué ser el real (de hecho, antes de calcularlo no se lo conoce). Si se obtiene como resultado alguna corriente negativa, el sentido real de la misma es al revés del utilizado para esa malla. 
+
 
 5.	Lista De Componentes 
 
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Material.jpeg)
 
   5.1 	Explicación
-  
-  
-●	Para le elaboración del análisis de mallas debemos tomar en cuenta el número de mallas presentes en el circuito, luego veremos el sentido de las corrientes el cual se va a tomar, esto es importante ya que este nos dará el signo en el valor final de cada corriente en las diferentes mallas que analizamos.
 
 
-EL número de corrientes que se hallara es igual al número de mallas que se tenga en el circuito, en este caso analizamos 3 mallas por ende existe 3 corrientes una circulando en cada malla.
+  ●	Para le elaboración del análisis de mallas debemos tomar en cuenta el número de mallas presentes en el circuito, luego veremos el sentido de las corrientes el cual se va a tomar, esto es importante ya que este nos dará el signo en el valor final de cada corriente en las diferentes mallas que analizamos. 
 
 
-Cabe mencionar que para el análisis es importante identificar que elemento en el circuito está compartiendo dos o más corrientes, ya que estas se restaran para poder realizar una correcta formulación de las ecuaciones. 
+●	EL número de corrientes que se hallara es igual al número de mallas que se tenga en el circuito, en este caso analizamos 3 mallas por ende existe 3 corrientes una circulando en cada malla.
 
 
-Ya identificado los resistores R4 y R5 que son los que comparten corrientes tanto de I2 e I1 para el resistor R4 y I2 e I3 para R5, procedemos a armar las ecuaciones. Si se tiene una fuente de voltaje solo se copia el valor que se encuentre, siempre respetando el orden de los signos ya que si no lo hacemos nos dará un valor erróneo y a su vez inservible para el análisis futuro que se realizara con la simulación del Simulador a implementar “MULTISIM”.
+●	Cabe mencionar que para el análisis es importante identificar que elemento en el circuito está compartiendo dos o más corrientes, ya que estas se restaran para poder realizar una correcta formulación de las ecuaciones. 
+
+
+●	Ya identificado los resistores R4 y R5 que son los que comparten corrientes tanto de I2 e I1 para el resistor R4 y I2 e I3 para R5, procedemos a armar las ecuaciones. Si se tiene una fuente de voltaje solo se copia el valor que se encuentre, siempre respetando el orden de los signos ya que si no lo hacemos nos dará un valor erróneo y a su vez inservible para el análisis futuro que se realizara con la simulación del Simulador a implementar “MULTISIM”.
 
    
    ●	Imágenes representativas de análisis de mallas en un circuito.
@@ -138,7 +137,13 @@ Ya identificado los resistores R4 y R5 que son los que comparten corrientes tant
       
 	     
 7.	Descripción De Prerrequisitos Y Configuración 
-
+En el análisis de mallas se parte de la aplicación de KVL a un conjunto 
+mínimo de lazos para encontrar al final todas las corrientes de lazo. A partir 
+de las corrientes de lazo es posible encontrar todas las corrientes de rama. 
+El número de lazos que se pueden plantear en un circuito puede ser muy 
+grande, pero lo importante es que el sistema de ecuaciones represente un 
+conjunto mínimo de lazos independientes.
+		En el análisis de mallas se parte de la aplicación de KVL a un conjunto mínimo de 	lazos para encontrar al final todas las corrientes de lazo. A partir de las corrientes de 	lazo es 	posible encontrar todas las corrientes de rama. El número de lazos que se 	pueden plantear en un circuito puede ser muy grande, pero lo importante es que 	el sistema de ecuaciones represente un conjunto mínimo de lazos independientes.
 
 8.	Tabulación de Datos
 
@@ -189,4 +194,4 @@ Ya identificado los resistores R4 y R5 que son los que comparten corrientes tant
 	
 	Diferencias Entre Analisis de Mallas y Nodos
 	
-	Video: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/Videos/Video_Analisis_Mallas.txt 
+	Video: https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/Videos/Video_Analisis_Mallas.txt
