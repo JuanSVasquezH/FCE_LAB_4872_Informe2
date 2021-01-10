@@ -137,12 +137,9 @@ Figura 2.1 Circuito para el análisis de mallas.
       
 	     
 7.	Descripción De Prerrequisitos Y Configuración 
-En el análisis de mallas se parte de la aplicación de KVL a un conjunto 
-mínimo de lazos para encontrar al final todas las corrientes de lazo. A partir 
-de las corrientes de lazo es posible encontrar todas las corrientes de rama. 
-El número de lazos que se pueden plantear en un circuito puede ser muy 
-grande, pero lo importante es que el sistema de ecuaciones represente un 
-conjunto mínimo de lazos independientes.
+
+En el análisis de mallas se parte de la aplicación de KVL a un conjunto mínimo de lazos para encontrar al final todas las corrientes de lazo. A partirde las corrientes de lazo es posible encontrar todas las corrientes de rama. El número de lazos que se pueden plantear en un circuito puede ser muy grande, pero lo importante es que el sistema de ecuaciones represente un  conjunto mínimo de lazos independientes.
+
 		En el análisis de mallas se parte de la aplicación de KVL a un conjunto mínimo de 	lazos para encontrar al final todas las corrientes de lazo. A partir de las corrientes de 	lazo es 	posible encontrar todas las corrientes de rama. El número de lazos que se 	pueden plantear en un circuito puede ser muy grande, pero lo importante es que 	el sistema de ecuaciones represente un conjunto mínimo de lazos independientes.
 
 8.	Tabulación de Datos
