@@ -151,17 +151,17 @@ Figura 2.1 Circuito para el análisis de mallas.
 
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/tabla2.png)     
       
-                         2. Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.     
+                         2. Tabla 2.1. Resultados de error para el circuito de la figura 2.1.     
 
 
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/tabla3.png)     
       
-                         1. Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.       
+                         3. Tabla 3.1. Resultados de error para el circuito de la figura 2.1.       
 
 
       ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/tabla4.png)     
       
-                         1. Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.       
+                         4. Tabla 4.1. Resultados de error para el circuito de la figura 2.1.       
 
 
 
