@@ -130,7 +130,7 @@ Figura 2.1 Circuito para el análisis de mallas.
       6. Una vez analizados los datos obtenidos, calculamos el margen de erros que existe en la presente practica.
 	     
 
-      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Datos.png)	     
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme/Tabla1.png)	     
       
       
       
