@@ -15,11 +15,11 @@ Informe 2 "Análisis de Mallas"
                                     NOMBRES       	          	:        Juan Sebastián Vásquez Hurtado 
 				                                                 Freddy Stalin Cárdenas Carrera 
 
-                                    NIVEL-PARALELO                   :       Segundo
+                                    NIVEL-PARALELO                 :       Segundo
 
                                     DOCENTE       	 	        :       Ing. Darwin Alulema MSc.
 
-                                    FECHA DE ENTREGA                 :       12/01/2021
+                                    FECHA DE ENTREGA               :       12/01/2021
 
                                     NRC 				:	4872
  
