@@ -12,8 +12,8 @@ Informe 2 "Análisis de Mallas"
 
                                     TEMA	                        : 	Informe de laboratorios
  
-                                    NOMBRES       	          	:       Freddy Stalin Cárdenas Carrera 
-					                                   Juan Sebastián Vásquez Hurtado 
+                                    NOMBRES       	          	:        Juan Sebastián Vásquez Hurtado 
+				                                                 Freddy Stalin Cárdenas Carrera 
 
                                     NIVEL-PARALELO                      :       Segundo
 
